@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/golden-hour-glow/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Golden Hour Glow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/golden-hour-glow/) |
+| **Get License** | [Secure Licensing Rights for Golden Hour Glow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/golden-hour-glow/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Pour a little whiskey, let the shadows fall
+> Your silhouette is dancing on the bedroom wall
+> We got nowhere to be but exactly right here
+> Whispering our secrets in the midnight, my dear
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
